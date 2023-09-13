@@ -9,3 +9,4 @@ Pour réaliser ce travail, on a réaliser un audit UX en suivant les grandes ét
    ● Empathy map
    ● Liste des besoins
    ● Wireframe
+Le rendu du format PDF du maquette est nommé wirefrime.
